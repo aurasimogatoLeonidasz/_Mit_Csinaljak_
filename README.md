@@ -1,6 +1,6 @@
 # _Mit_Csinaljak_
 #TodoList
-#asznált modulok: tkinter, xml.etree.ElementTree , todolist.py
+#Használt modulok: tkinter, xml.etree.ElementTree , todolist.py
 #  Oszlytályok: TeendoListam, Frame
 #   Függvények: __init__, super(), teendo_hozzaadas(), teendo_torles(), teendok_mentes(), teendok_betoltes, main()
 #
